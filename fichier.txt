@@ -1,1 +1,2 @@
 bonjour je suis marc qui écrit un fichier
+je rajoute une ligne pour le conflit
