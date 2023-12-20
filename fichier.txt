@@ -1,2 +1,3 @@
 bonjour je suis marc qui écrit un fichier
 Moi je suis Anotnin et j'ai ajouté une ligne !
+je rajoute une ligne pour le conflit
